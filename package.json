@@ -1,0 +1,22 @@
+{
+  "name": "cypresstesting",
+  "version": "1.0.0",
+  "description": "The all in One Practice Project for Cypress automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamSarkarFrost/CypressTesting.git"
+  },
+  "author": "shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhamSarkarFrost/CypressTesting/issues"
+  },
+  "homepage": "https://github.com/ShubhamSarkarFrost/CypressTesting#readme",
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
+}
