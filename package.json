@@ -4,7 +4,7 @@
   "description": "The all in One Practice Project for Cypress automation",
   "main": "index.js",
   "scripts": {
-   "cypress-cli": "cypress open",
+    "cypress-cli": "cypress open",
     "cypress-headed": "cypress run -b chrome",
     "cypress-headed-fox": "cypress run -b firefox",
     "cypress-headless": "cypress run --headless -b chrome",
